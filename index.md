@@ -3,5 +3,5 @@ layout: home
 title: トップページ
 ---
 
-- [利用規約](/terms/)
-- [プライバシーポリシー](/privacy/)
+- [利用規約](/legal-pages/terms/)
+- [プライバシーポリシー](/legal-pages/privacy/)
